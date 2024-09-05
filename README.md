@@ -154,4 +154,5 @@ First, create the environment variables file `.env` in the client folder. The `.
 
 ## For Support, Contact:
 
-- Email: rajkumaranbu195@gmail.com
+- Email: `rajkumaranbu195@gmail.com`
+- LinkedIn: [Rajkumar A](https://mern-task-management-client.vercel.app/)
